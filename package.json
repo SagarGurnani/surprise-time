@@ -1,0 +1,33 @@
+{
+  "name": "surprise-time",
+  "version": "1.0.0",
+  "description": "An application to surprise you!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SagarGurnani/surprise-time.git"
+  },
+  "keywords": [
+    "surprise",
+    "random",
+    "time",
+    "day",
+    "hour",
+    "minute"
+  ],
+  "author": "Sagar Gurnani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SagarGurnani/surprise-time/issues"
+  },
+  "homepage": "https://github.com/SagarGurnani/surprise-time",
+  "devDependencies": {
+    "chance": "^0.8.0",
+    "forever": "^0.15.1",
+    "moment": "^2.10.6",
+    "twilio": "^2.6.0"
+  }
+}
